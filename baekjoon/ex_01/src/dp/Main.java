@@ -1,3 +1,5 @@
+package dp;
+
 import java.util.*;
 
 //[dp]백준 1932 숫자 삼각형
