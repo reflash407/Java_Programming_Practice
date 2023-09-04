@@ -4,7 +4,7 @@ import java.util.*;
 
 //[dp]백준 1932 숫자 삼각형
 
-public class Main {
+public class dp1932 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
