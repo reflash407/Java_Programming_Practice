@@ -8,6 +8,9 @@ package dp;
 
 //계산 결과 저장 > 메모이제이션
 
+//dp[n]의 값은 최댓값을 구함. n-2, n-3 + arr[n-1]
+// 재귀호출을 할 것인데.
+
 public class DynamicProgramming {
 
     static int[] dp = new int[100]; //메모이제이션
