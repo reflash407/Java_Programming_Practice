@@ -36,7 +36,7 @@ public class gt24479 {
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
         R = Integer.parseInt(st.nextToken());
-        
+
         //리스트 및 배열 초기화
         visited = new boolean[N+1];
         result = new int[N+1];
